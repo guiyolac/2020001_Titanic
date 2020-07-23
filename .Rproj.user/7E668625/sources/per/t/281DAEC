@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583039320532.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "281DAEC",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1583039320532,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "07327ee1e79840fd8951cff55b698e12",
+        "name" : "Model_CDT",
+        "title" : "Model_CDT"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

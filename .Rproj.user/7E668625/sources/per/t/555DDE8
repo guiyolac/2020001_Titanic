@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581624566540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3262064199",
+    "id" : "555DDE8",
+    "lastKnownWriteTime" : 1589655916,
+    "last_content_update" : 1591161107543,
+    "path" : "~/OneDrive - Universidad Tecnológica de Pereira/Goyola/IA/DataScience/202001 Titanic/head-start-for-data-scientist.Rmd",
+    "project_path" : "head-start-for-data-scientist.Rmd",
+    "properties" : {
+        "cursorPosition" : "1964,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "1948"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

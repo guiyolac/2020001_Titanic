@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582238093477.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "472BD703",
+    "lastKnownWriteTime" : 4316668422,
+    "last_content_update" : 1582238093477,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5098CAFA",
+        "caption" : "train_val",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=train_val&cache_key=5098CAFA",
+        "displayedObservations" : "714",
+        "environment" : "",
+        "expression" : "train_val",
+        "object" : "train_val",
+        "preview" : "0",
+        "totalObservations" : "714",
+        "variables" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
